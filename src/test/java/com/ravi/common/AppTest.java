@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
  * Unit test for simple App.
  */
 public class AppTest 
-    extends TestCase
+ 
 {
     /**
      * Create the test case
