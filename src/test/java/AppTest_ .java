@@ -14,7 +14,7 @@ public class AppTest_
      *
      * @param testName name of the test case
      */
- @Test
+   @Test
   public void f() {
 	  Assert.assertEquals("anda", "anda");
   }
